@@ -6,7 +6,7 @@ How it works
 Installing
 node.js and MySQL
 
-The app uses the following dependencies: * mysql * inquirer
+The app uses the following dependencies: *mysql *inquirer
 
 Running the app
 Open a terminal window and run the following code:
